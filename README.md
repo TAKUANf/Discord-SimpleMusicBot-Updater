@@ -1,4 +1,4 @@
-## Discord-SimpleMusicBot-updater
+# Discord-SimpleMusicBot-Updater
 
 手動での更新作業を自動化するためのものです！！
 
