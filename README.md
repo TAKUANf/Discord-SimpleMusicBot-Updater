@@ -12,7 +12,8 @@
 
 **よくあるエラーと対処法:**
 
-*   **`'REPO_DIR' ディレクトリに移動できませんでした。`**:  `Update.bat` がリポジトリのルートディレクトリにない可能性があります。配置場所を確認してください。ファイル名が違う場合は`set "REPO_DIR=Discord-SimpleMusicBot"`の値を各自変更してください
+*   **`'REPO_DIR' ディレクトリに移動できませんでした。`**:  `Update.bat` がリポジトリのルートディレクトリにない可能性があります。配置場所を確認してください。
+*   ファイル名が違う場合は`set "REPO_DIR=Discord-SimpleMusicBot"`の値を各自変更してください
 *   **`git fetch --tags に失敗しました。`**: インターネット接続や Git の設定を確認してください。
 *   **`npm install に失敗しました。`**: Node.js/npm のインストール、ネットワーク接続を確認してください。
 *   **`npm run build に失敗しました。`**:  `npm run build:bundled` を試してみてください。
