@@ -1,6 +1,6 @@
 # Discord-SimpleMusicBot-Updater
 
-手動での更新作業を自動化するためのものです！！
+[Discord-SimpleMusicBot](https://github.com/mtripg6666tdr/Discord-SimpleMusicBot)の手動での更新作業を自動化するためのものです！！
 
 **前提条件**
 
