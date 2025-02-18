@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 > nul
 
 :: --- 設定 ---
 set "REPO_DIR=Discord-SimpleMusicBot"
