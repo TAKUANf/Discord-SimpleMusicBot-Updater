@@ -9,7 +9,7 @@ cd /d "%REPO_DIR%"
 if errorlevel 1 (
     echo エラー: '%REPO_DIR%' ディレクトリに移動できませんでした。
     echo update.bat と同じディレクトリでこのスクリプトを実行していること、
-    echo およびリポジトリがクローンされていることを確認してください。
+    echo 及び、リポジトリがクローンされていることを確認してください。
     pause
     exit /b 1
 )
